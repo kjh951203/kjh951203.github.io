@@ -1,4 +1,6 @@
-Enjoy My Life!!! 
+---
+Enjoy My Life!!!
+---
 <!---
 ---
 layout: page
