@@ -1,4 +1,4 @@
-\\<!--
+<!---
 ---
 layout: page
 title: Cloud Researcher
@@ -7,12 +7,12 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 -->
 
-## About me
+[comment]: # (## About me)
 
 
 
 ## Contact
-<!--
+<!---
 ```
 
 ```
