@@ -1,8 +1,7 @@
-
 ---
-layout: page
-title: Enjoy Our Life
-subtitle: make the world happy through technology
+layout: post-blog
+title: Blog
+subtitle: News and Ideas worth spreading
 ---
 
 
